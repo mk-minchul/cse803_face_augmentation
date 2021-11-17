@@ -9,6 +9,7 @@ The facial landmark aligned dataset is available from [insightface](https://driv
 ### Training data
 We download the dataset from the above link [insightface](https://drive.google.com/file/d/1KxNCrXzln0lal3N4JiYl9cFOIhT78y1l/view?usp=sharing)
 ```
+cd preprocessing/training_data
 unzip faces_webface_112x112.zip
 python prepare_training_data.py
 ```
