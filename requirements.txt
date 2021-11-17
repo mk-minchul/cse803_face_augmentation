@@ -1,0 +1,4 @@
+cv2
+mxnet
+pillow
+tqdm
