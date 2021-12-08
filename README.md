@@ -21,8 +21,8 @@ python prepare_training_data.py
 
 2. Or download from the link [our shared drive](https://drive.google.com/file/d/1wcpJUrSTmZ-LbqKZi3a0rLTfsg8a6dHk/view?usp=sharing)
 
-## GAN Generate Images
-We use the code provided at [DiscoFaceGAN](https://github.com/microsoft/DiscoFaceGAN) [2] to generate the augmented GAN images. The dependencies required to run the code are listed on their Github link provided under "Testing Requirements". The released paper for this work is also available at this [link](https://arxiv.org/abs/2004.11660v2).
+## GAN Generated Images
+We used the code provided at [DiscoFaceGAN](https://github.com/microsoft/DiscoFaceGAN) [2] to generate the augmented GAN images. The dependencies required to run the code are listed on their Github link provided under "Testing Requirements". The released paper for this work is also available at this [link](https://arxiv.org/abs/2004.11660v2).
 
 # Reference
 [1] Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li. Learning Face Representation from Scratch. arXiv:1411.7923, 2014.
