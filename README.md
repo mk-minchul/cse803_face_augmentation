@@ -24,6 +24,9 @@ python prepare_training_data.py
 ## GAN Generated Images
 We used the code provided at [DiscoFaceGAN](https://github.com/microsoft/DiscoFaceGAN) [2] to generate the augmented GAN images. The dependencies required to run the code are listed on their Github link provided under "Testing Requirements". The released paper for this work is also available at this [link](https://arxiv.org/abs/2004.11660v2).
 
+## Adversarial Examples:
+The code to generate the adversarial examples are in `adversarial_examples.py` script. 
+
 # Reference
 [1] Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li. Learning Face Representation from Scratch. arXiv:1411.7923, 2014.
 
