@@ -26,4 +26,5 @@ We use the code provided at [DiscoFaceGAN](https://github.com/microsoft/DiscoFac
 
 # Reference
 [1] Dong Yi, Zhen Lei, Shengcai Liao, Stan Z. Li. Learning Face Representation from Scratch. arXiv:1411.7923, 2014.
+
 [2] Yu Deng, Jiaolong Yang, Dong Chen, Fang Wen, and Xin Tong. Disentangled and controllable face image generation via 3d imitative-contrastive learning. CoRR, abs/2004.11660, 2020.
